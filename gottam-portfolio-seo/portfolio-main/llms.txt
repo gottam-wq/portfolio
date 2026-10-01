@@ -1,0 +1,19 @@
+# Gottam Saini – Web Developer Portfolio
+
+> Portfolio of Gottam Saini, a web developer based in Jaipur, India, working at Mitash Digital on WordPress, PHP, React, GoHighLevel, API integrations and data scraping.
+
+## Pages
+- [Portfolio home](https://gottam.netlify.app/): about, six areas of expertise, experience and education, working process and contact details.
+- [Resume (PDF)](https://gottam.netlify.app/assets/Gottam_Saini_Resume.pdf): background, skills, education and experience.
+
+## Expertise
+- Full-stack web development (HTML, CSS, JavaScript, PHP, Python, MySQL)
+- WordPress themes, plugins and WooCommerce
+- PHP applications and API integrations
+- GoHighLevel funnels, automation workflows and CRM pipelines
+- Web scraping, data cleaning and export (Excel, CSV, JSON)
+
+## Contact
+- Email: gottamsaini958@gmail.com
+- Phone / WhatsApp: +91 94689 71373
+- GitHub: https://github.com/gottam-wq
